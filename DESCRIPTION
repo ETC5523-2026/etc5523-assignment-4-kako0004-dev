@@ -1,0 +1,13 @@
+Package: haiburden
+Title: Explore Healthcare-Associated Infection Burden
+Version: 0.0.0.9000
+Authors@R:
+    person("Kishori", "Akola",
+           email = "kako0004@student.monash.edu",
+           role = c("aut", "cre"))
+Description: Provides data and tools for exploring the burden of
+    healthcare-associated infections. Includes functions for comparing
+    burden measures and an interactive Shiny application.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
