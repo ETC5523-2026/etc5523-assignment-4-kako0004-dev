@@ -134,8 +134,3 @@ The data have been reformatted as described above.
 I used ChatGPT to help diagnose and resolve errors during package
 development, including dependency conflicts, function masking and
 package-check notes.
-
-I ran the supplied code, tested the app's selectors, and ran
-devtools::check(). The package check reported zero errors,
-zero warnings and zero notes. I remain responsible for the
-accuracy, attribution and interpretation of the submitted work.
