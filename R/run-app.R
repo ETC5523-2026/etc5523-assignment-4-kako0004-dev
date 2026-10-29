@@ -4,6 +4,7 @@
 #' infection burden estimates for Germany and the EU/EEA.
 #'
 #' @return Starts the Shiny application.
+#' @importFrom ggplot2 ggplot
 #' @export
 #'
 #' @examples
