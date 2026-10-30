@@ -134,3 +134,9 @@ The data have been reformatted as described above.
 I used ChatGPT to help diagnose and resolve errors during package
 development, including dependency conflicts, function masking and
 package-check notes.
+
+## Documentation website
+
+Visit the [haiburden documentation website](https://etc5523-2026.github.io/etc5523-assignment-4-kako0004-dev/)
+for installation instructions, function and dataset documentation,
+and a guide to using and interpreting the app.
